@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <title>Making My Resume</title>
+  
+  <style>
+  #name{color:#29B6F6}
+  #a{color:#E9D208E6}
+  #b{color:#4FC3F7}
+  #c{color:#FFB74D}
+  #d{color:#212121}
+  #e{color:blue }
+  #f{color:#00E676}
+  #g{color:#E53935}
+  {color:red}
+  
+  
+  
+  </style>
+</head>
+<body>
+  <h2 id="name">
+    Resume
+  </h2>
+  <hr>
+  <a href="./aboutme.html" id="a">About Me</a>
+  <hr>
+  <a href="./careerobjective.html" id="b">Career Obbjective</a>
+  <hr>
+  <a href="./educationalbackground.html" id="c">Educational Background</a>
+  <hr>
+  <a href="./skills.html" id="d">Skills</a>
+  <hr>
+  <a href="./personaldetails.html"  target="_blank" id="e">PERSONAL DETAILS</a>
+  <hr>
+  <a href="./declaration.html" id="f">DECLARATION</a>
+  
+  <h2 id="g">Thank you For Reading My Resume</h2>
+  
+  
+</body>
+</html>
