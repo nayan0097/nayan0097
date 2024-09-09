@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm Nayan Singh Rao, <br>a passionate Web Developer with<br> a keen interest in hacking and<br> UI/UX design. <br>Currently,<br> I'm expanding my knowledge in the IT field,<br> always eager to learn and grow. <br>In my free time, I enjoy playing games,<br> diving into books, and exploring new <br>places through solo travel. <br><br>
+I'm Nayan Singh Rao, <br>a passionate Web Developer with<br> a keen interest in hacking and<br> UI/UX design. <br>Currently,<br> I'm expanding my knowledge in the IT field,<br> always eager to learn and grow. <br>In my free time, I enjoy playing games,<br> diving into books, and exploring new <br>places through solo travel. <br><br>[![](https://visitcount.itsvg.in/api?id=nayan0097&label=Profile%20Views&color=6&icon=9&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=nayan0097&label=Profile%20Views&color=6&icon=9&pretty=true" />
+</a>
+
 
 
 ## 🌐 Socials:
